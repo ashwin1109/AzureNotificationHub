@@ -1,0 +1,12 @@
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\NotificationSenderCreator.exe.config
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\NotificationSenderCreator.exe
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\NotificationSenderCreator.pdb
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\Microsoft.Azure.NotificationHubs.dll
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\Newtonsoft.Json.dll
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\Microsoft.Azure.NotificationHubs.xml
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\bin\Debug\Newtonsoft.Json.xml
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\obj\Debug\NotificationSenderCreator.csprojResolveAssemblyReference.cache
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\obj\Debug\NotificationSenderCreator.exe
+E:\20487A\NotificationSenderCreator\NotificationSenderCreator\obj\Debug\NotificationSenderCreator.pdb
